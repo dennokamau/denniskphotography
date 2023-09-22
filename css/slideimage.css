@@ -1,0 +1,23 @@
+#slider {
+    height: 500px;
+   
+    
+  }
+  
+  .slide {
+    width: 80%;
+    display: none;
+    position: relative;
+    
+  }
+  
+  .slide img {
+   width: auto;
+    height: 400px;
+    
+    
+  }
+  
+  .slide.active {
+    display: block;
+  }
